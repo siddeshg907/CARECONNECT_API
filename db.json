@@ -1,0 +1,1260 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "name": "Cardiology",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": false,
+                  "03:45 PM": false
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": false,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Paediatric",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Homeopathy",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Dental Care",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Eye Care",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Pulmonary",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "X-Ray",
+        "doctors": [
+          {
+            "id": 1,
+            "name": " Ritendra Talapatra",
+            "experience": 38,
+            "price": 1299,
+            "education": "MBBS, DFM (CMC,Vellore)",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": " Sougata Sanyal",
+            "experience": 12,
+            "price": 999,
+            "education": "MD, PGDCC, CCEBDM",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": " Shyamal Kr. Saha",
+            "experience": 30,
+            "price": 1500,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": " Sambhunath Mukherjee",
+            "experience": 24,
+            "price": 1200,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Varnika Agarwaal",
+            "experience": 30,
+            "price": 2000,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "02:15 PM": true,
+                  "02:30 PM": true,
+                  "02:45 PM": true,
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": " Soura Mukherjee",
+            "experience": 35,
+            "price": 1900,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "01:15 PM": true,
+                  "01:30 PM": true,
+                  "01:45 PM": true,
+                  "02:00 PM": true,
+                  "02:15 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": " Auriom Kar",
+            "experience": 33,
+            "price": 1800,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "12:15 PM": false,
+                  "12:45 PM": true,
+                  "01:00 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": " Debi Dutta",
+            "experience": 27,
+            "price": 1600,
+            "education": "MBBS, MS.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "12:00 PM": false,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Vivek Reddy",
+            "experience": 32,
+            "price": 2100,
+            "education": "MBBS, MS. M.Ch.",
+            "image": "https://png.pngtree.com/png-vector/20191130/ourmid/pngtree-doctor-icon-circle-png-image_2055257.jpg",
+            "days": [
+              {
+                "slots": {
+                  "03:00 PM": true,
+                  "03:15 PM": true,
+                  "03:30 PM": true,
+                  "03:45 PM": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "users": [
+      {
+        "name": "Siddesh Gore",
+        "email": "siddeshgore907@gmail.com",
+        "password": "1234",
+        "id": 1
+      },
+      {
+        "name": "Sandesh Gore",
+        "email": "sandeshgore9@gmail.com",
+        "password": "123456",
+        "id": 2
+      },
+      {
+        "name": "Sid Gore",
+        "email": "siddeshgore@gmail.com",
+        "password": "Sid12345@",
+        "id": 3
+      },
+      {
+        "name": "Sid Gore",
+        "email": "siddeshgore@gmail.com",
+        "password": "Sid12345@",
+        "id": 4
+      },
+      {
+        "name": "Sid Gore",
+        "email": "anyuser@gmail.com",
+        "password": "Sid12345@",
+        "id": 5
+      }
+    ],
+    "appointments": [
+      {
+        "name": "Sid Gore",
+        "email": "siddeshgore@gmail.com",
+        "category": "Cardiology",
+        "doctor": " Ritendra Talapatra",
+        "time": "03:30 PM",
+        "day": "2023-7-24",
+        "price": 1299,
+        "mode": "online",
+        "id": 2
+      }
+    ]
+  }
